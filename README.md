@@ -1,24 +1,23 @@
 # chat-client
 
-## Project setup
+# 创建
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+# 调试
 ```
-npm run serve
+npm start
 ```
 
-### Compiles and minifies for production
+# 发布
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 注意
+
+
+需要服务端
+https://github.com/thales-ybm/chat-server.git
